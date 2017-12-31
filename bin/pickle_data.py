@@ -55,7 +55,7 @@ def main():
 
         # append to lists
         features_list.append(img)
-        labels_list.append(label)
+        labels_list.append(int(label))
 
     # log shapes
     features = np.asarray(features_list)

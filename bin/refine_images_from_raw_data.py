@@ -107,7 +107,7 @@ def create_label_map(examples):
     label_map = {}
 
     for i in range(0, len(label_list)):
-        label_map[label_list[i]] = i+1
+        label_map[label_list[i]] = i
 
     return label_map
 
