@@ -1,0 +1,8 @@
+0: Green
+1: Yellow
+2: Red
+Number of training examples = 542
+Number of validation examples = 155
+Number of testing examples = 77
+Image data shape = (32, 32, 3)
+Number of classes = 3
